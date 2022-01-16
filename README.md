@@ -1,2 +1,5 @@
-# desafio-github-dio
-Primeiro repositório do github, contendo um desafio de projeto de GIT/GITHUB
+# Repositório do Desafio de Projeto sobre GIT/GITHUB da DIO :book:
+
+Olá! Esse é o meu primeiro repositório que vai servir para o desafio de projeto sobre GIT/GITHUB da DIO. 
+
+Estou ansioso para poder aprender mais sobre repositórios e poder me tornar um expert em GIT! :zap: 
