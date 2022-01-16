@@ -8,6 +8,6 @@ Estou ansioso para poder aprender mais sobre repositórios e poder me tornar um 
 
 ### Links Úteis
 
-- [Sintaxe Básica Markdown] (https://github.com/marktext/marktext/blob/master/docs/MARKDOWN_SYNTAX.md)
+- [Sintaxe Básica Markdown](https://github.com/marktext/marktext/blob/master/docs/MARKDOWN_SYNTAX.md)
 
-- [Site da DIO] (https://dio.me/)
+- [Site da DIO](https://dio.me/)
