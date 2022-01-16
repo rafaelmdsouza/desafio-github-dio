@@ -18,7 +18,7 @@
 
 - **echo**   : printa o texto descrito no código dentro do CLI
   
-  - > : redireciona o input para algum lugar. ex: echo "Olá" > ola.txt
+  - $> : redireciona o input para algum lugar. ex: echo "Olá" > ola.txt
 
 - **cat** : printa o conteúdo do arquivo na tela
 
